@@ -3,7 +3,7 @@
 <p>I currently work as a software developer at an IT service provider. I am also a trainer for upcoming developers.<br>
 I worked in different professions, via salesman, office clerk and soldier, until I discovered my passion for programming. 💚</p>
 <p>I love to work with TypeScript and Angular. In my private life, the computer never stands still, because programming is not only my vocation it's more my passion.</p>
-<p><a href="https://www.twitter.com/mnkyjs"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/dennis-hundertmark-636747178"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://gitlab.com/mnkyjs"><img src="https://img.shields.io/badge/gitlab-%23292961.svg?&style=for-the-badge&logo=gitlab&logoColor=white" height=25></a></p>
+<p><a href="https://www.twitter.com/mnkyjs"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/dennis-hundertmark-636747178"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://gitlab.com/mnkyjs"><img src="https://img.shields.io/badge/gitlab-%23292961.svg?&style=for-the-badge&logo=gitlab&logoColor=white" height=25></a></p>
 
 <!--
 **mnkyjs/mnkyjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
