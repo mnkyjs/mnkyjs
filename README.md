@@ -8,8 +8,6 @@ I worked in different professions, via salesman, office clerk and soldier, until
 
 - 🔭 I’m currently working on [Venue Registration Tool](https://gitlab.com/spaghetti-coders/vrt-frontend)
 
-- 🌱 I’m currently learning **Java**
-
 - 👨‍💻 All of my projects are available at [https://gitlab.com/mnkyjs](https://gitlab.com/mnkyjs)
 
 - 💬 Ask me about **JavaScript, TypeScript, Angular**
@@ -32,6 +30,7 @@ I worked in different professions, via salesman, office clerk and soldier, until
 
 Here are some ideas to get you started:
 
+- 🌱 I’m currently learning **Java**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
